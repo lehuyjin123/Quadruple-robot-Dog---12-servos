@@ -2,6 +2,8 @@
 
 A quadruped robot project with Python motion control and Arduino sketches. The source includes gait planning, inverse kinematics, center-of-mass stabilization, and routines for dance and LED patterns.
 
+![Assembled 12-servo quadruped prototype](docs/images/quadruped-prototype.jpg)
+
 ## Repository guide
 
 | Path | Contents |
